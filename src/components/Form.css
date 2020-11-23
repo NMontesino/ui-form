@@ -1,0 +1,48 @@
+form
+{
+    width: 314px;
+    height: auto;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    padding: 32px 18px;
+    border-radius: 0.4em;
+}
+
+form h1
+{
+    text-align: left;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 24px;
+    margin-top: 0;
+    line-height: 1em;
+}
+
+form p
+{
+    font-style: italic;
+    color: red;
+    width: 100%;
+    margin: 0;
+    text-align: left;
+    font-size: 0.7em;
+}
+
+form fieldset
+{
+    padding: 0;
+    margin: 0;
+    border: none;
+
+}
+
+form button
+{
+    width: 100%;
+    color: white;
+    font-weight: 600;
+    background-color: cornflowerblue;
+    padding: 8px 8px;
+    border-radius: 0.4em;
+    border: none;
+    margin-top: 16px;
+}
